@@ -1,5 +1,5 @@
 # hotelrecommendations
-Modeling for a Data Science Competition for learning
+Modeling for a Data Science Competition for learning - https://www.kaggle.com/c/expedia-hotel-recommendations/data
 
 This notebook is my code to have a quick template for data preparation and predicitive modeling. 
 
